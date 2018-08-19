@@ -1,0 +1,6 @@
+[package]
+name = "rustapi"
+version = "0.1.0"
+authors = ["Brent Gardner <bgardner@squarelabs.net>"]
+
+[dependencies]
