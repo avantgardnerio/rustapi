@@ -1,6 +1,7 @@
 # cargo
 target/
 **/*.rs.bk
+.env
 
 # IntelliJ
 *.ipr
